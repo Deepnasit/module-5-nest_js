@@ -1,0 +1,38 @@
+.catSliderSection {
+  width: 100%;
+  height: auto;
+  padding: 10px 0px;
+}
+
+.cat_slider_Main .slick-slide {
+  padding-right: 10px !important;
+}
+
+.cat_slider_Main .item {
+  height: auto;
+  background: #f4f6fa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  padding: 15px;
+}
+
+.cat_slider_Main .info {
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.cat_slider_Main .info h6 {
+  font-weight: 600 !important;
+}
+
+.cat_slider_Main .info p {
+  font-size: 13px;
+  opacity: 0.8;
+  color: #000;
+  margin-bottom: 0px;
+}
